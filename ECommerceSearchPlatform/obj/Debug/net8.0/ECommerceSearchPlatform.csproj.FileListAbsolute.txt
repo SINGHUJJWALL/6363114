@@ -1,0 +1,14 @@
+C:\Users\KIIT\source\repos\ECommerceSearchPlatform\bin\Debug\net8.0\ECommerceSearchPlatform.exe
+C:\Users\KIIT\source\repos\ECommerceSearchPlatform\bin\Debug\net8.0\ECommerceSearchPlatform.deps.json
+C:\Users\KIIT\source\repos\ECommerceSearchPlatform\bin\Debug\net8.0\ECommerceSearchPlatform.runtimeconfig.json
+C:\Users\KIIT\source\repos\ECommerceSearchPlatform\bin\Debug\net8.0\ECommerceSearchPlatform.dll
+C:\Users\KIIT\source\repos\ECommerceSearchPlatform\bin\Debug\net8.0\ECommerceSearchPlatform.pdb
+C:\Users\KIIT\source\repos\ECommerceSearchPlatform\obj\Debug\net8.0\ECommerceSearchPlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\source\repos\ECommerceSearchPlatform\obj\Debug\net8.0\ECommerceSearchPlatform.AssemblyInfoInputs.cache
+C:\Users\KIIT\source\repos\ECommerceSearchPlatform\obj\Debug\net8.0\ECommerceSearchPlatform.AssemblyInfo.cs
+C:\Users\KIIT\source\repos\ECommerceSearchPlatform\obj\Debug\net8.0\ECommerceSearchPlatform.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\ECommerceSearchPlatform\obj\Debug\net8.0\ECommerceSearchPlatform.dll
+C:\Users\KIIT\source\repos\ECommerceSearchPlatform\obj\Debug\net8.0\refint\ECommerceSearchPlatform.dll
+C:\Users\KIIT\source\repos\ECommerceSearchPlatform\obj\Debug\net8.0\ECommerceSearchPlatform.pdb
+C:\Users\KIIT\source\repos\ECommerceSearchPlatform\obj\Debug\net8.0\ECommerceSearchPlatform.genruntimeconfig.cache
+C:\Users\KIIT\source\repos\ECommerceSearchPlatform\obj\Debug\net8.0\ref\ECommerceSearchPlatform.dll
