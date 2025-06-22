@@ -1,0 +1,10 @@
+[2025-06-22 17:20:02.729] [SYSTEM] [Thread-01] Logger instance initialized successfully
+[2025-06-22 17:20:02.734] [INFO ] [Thread-01] First logger instance obtained
+[2025-06-22 17:20:02.736] [INFO ] [Thread-01] Second logger instance obtained
+[2025-06-22 17:20:02.739] [INFO ] [Thread-01] This is an information message
+[2025-06-22 17:20:02.740] [WARN ] [Thread-01] This is a warning message
+[2025-06-22 17:20:02.741] [ERROR] [Thread-01] This is an error message
+[2025-06-22 17:20:02.741] [DEBUG] [Thread-01] This is a debug message
+[2025-06-22 17:20:02.743] [INFO ] [Thread-09] Message from Task 2
+[2025-06-22 17:20:02.743] [INFO ] [Thread-04] Message from Task 3
+[2025-06-22 17:20:02.743] [INFO ] [Thread-07] Message from Task 1
